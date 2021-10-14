@@ -17,6 +17,7 @@
   ##
  
 <div> 
+  <a href = "https://claylson-0.github.io/curriculum-vitae/"><img src="https://img.shields.io/badge/-Site-%23004f92?style=for-the-badge&logo=blog&logoColor=white" target="_blank"></a>
   <a href = "mailto:claylson1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/claylson-moreira-francisco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
